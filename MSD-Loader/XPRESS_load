@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# usage: XPRESS_load 18877 or XPRESS_load 18345 or XPRESS_load 18K40
+#
+echo 'Convert hex file to dfu (add checksum)'
+tools/454hex2dfu MPLAB.X/dist/XPRESS_$1/production/MPLAB.X.production.hex code_$1.dfu
+#
+echo 'Load application to device'
+#/opt/local/bin/dfu-util -d 04d8:0057 -D code_$1.dfu -t 64
+dfu-util -d 04d8:0057 -D code_$1.dfu -t 64

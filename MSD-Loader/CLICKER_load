@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# usage: CLICKER_load 
+#
+echo 'Convert hex file to dfu (add checksum)'
+tools/454hex2dfu MPLAB.X/dist/CLICKER2_18K40/production/MPLAB.X.production.hex code_18k40.dfu
+#
+echo 'Load application to device'
+#/opt/local/bin/dfu-util -d 04d8:0057 -D code_$1.dfu -t 64
+dfu-util -d 04d8:0057 -D code_18k40.dfu -t 64
