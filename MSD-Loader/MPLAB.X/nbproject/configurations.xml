@@ -120,7 +120,7 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.10"/>
+        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.42"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -151,6 +151,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -592,6 +594,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -600,6 +604,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -608,6 +614,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -616,6 +624,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -624,6 +634,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -640,7 +652,7 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.10"/>
+        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.42"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -1104,6 +1116,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1112,6 +1126,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1120,6 +1136,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1128,6 +1146,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1136,6 +1156,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1152,7 +1174,7 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.10"/>
+        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.42"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -1659,6 +1681,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1667,6 +1691,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1675,6 +1701,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1683,6 +1711,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1691,6 +1721,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -1707,7 +1739,7 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.10"/>
+        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.42"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -1738,6 +1770,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2238,6 +2272,9 @@
                   value=""/>
         <property key="warningmessagebreakoptions.warningmessages" value="holdstate"/>
       </Simulator>
+      <XC8-CO>
+        <property key="coverage-enable" value=""/>
+      </XC8-CO>
       <XC8-config-global>
         <property key="advanced-elf" value="true"/>
         <property key="gcc-opt-driver-new" value="false"/>
@@ -2256,6 +2293,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2264,6 +2303,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2272,6 +2313,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2280,6 +2323,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2288,6 +2333,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2296,6 +2343,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2312,7 +2361,7 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.10"/>
+        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.42"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -2853,6 +2902,9 @@
                   value=""/>
         <property key="warningmessagebreakoptions.warningmessages" value="holdstate"/>
       </Simulator>
+      <XC8-CO>
+        <property key="coverage-enable" value=""/>
+      </XC8-CO>
       <XC8-config-global>
         <property key="advanced-elf" value="true"/>
         <property key="gcc-opt-driver-new" value="false"/>
@@ -2871,6 +2923,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2879,6 +2933,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2887,6 +2943,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2895,6 +2953,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2903,6 +2963,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2911,6 +2973,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -2927,7 +2991,7 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.10"/>
+        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.42"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -3391,6 +3455,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -3399,6 +3465,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -3407,6 +3475,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -3415,6 +3485,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -3423,6 +3495,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -3439,7 +3513,7 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.10"/>
+        <pack name="PIC12-16F1xxx_DFP" vendor="Microchip" version="1.0.42"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -3998,6 +4072,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -4006,6 +4082,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -4014,6 +4092,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -4022,6 +4102,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -4030,6 +4112,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>
@@ -4038,6 +4122,8 @@
         </HI-TECH-COMP>
         <HI-TECH-LINK>
         </HI-TECH-LINK>
+        <XC8-CO>
+        </XC8-CO>
         <XC8-config-global>
         </XC8-config-global>
       </item>

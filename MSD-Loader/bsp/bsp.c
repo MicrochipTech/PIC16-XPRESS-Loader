@@ -33,9 +33,10 @@ void BSP_init(void)
     LED_GREEN_TRIS = OUTPUT_PIN;
     LED_RED_TRIS   = OUTPUT_PIN;
     ICSP_DAT_DIGITAL();
+    ICSP_TRIS_DAT = INPUT_PIN; // *should* be default ...
 
-    // inti UART
-    RCSTA = 0x90;       	// SP enable, continous RX enable
+    // init UART
+    RCSTA = 0x90;       	// SP enable, continuous RX enable
     TXSTA = 0x24;       	// TX enable BRGH=1
     SPBRG = 0xE2;
     SPBRGH = 0x04;      	// 48MHz -> 9600 baud

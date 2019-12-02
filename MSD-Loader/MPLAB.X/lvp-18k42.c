@@ -230,11 +230,16 @@ void LVP_write( void){
     }
     if (row_address == -1){
     }
+    else if(row_address >= (EE_ADDRESS >> 1)){
+        ICSP_addressLoad(row_address << 1);
+        ICSP_rowWrite(row, ROW_SIZE);
+    }
     else if (row_address >= (CFG_ADDRESS >> 1)) {    // use the special cfg word sequence
         ICSP_cfgWrite(row, CFG_NUM);
     }
     else if(row_address >= (UID_ADDRESS >> 1)){
-        // Ignore for now..
+        ICSP_addressLoad(row_address << 1);
+        ICSP_rowWrite(row, 8);
     }
     else { // normal row programming sequence
         ICSP_addressLoad(row_address << 1);

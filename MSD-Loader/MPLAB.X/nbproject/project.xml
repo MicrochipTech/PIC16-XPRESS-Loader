@@ -13,39 +13,6 @@
             <formatting>
                 <project-formatting-style>false</project-formatting-style>
             </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
-            <formatting>
-                <project-formatting-style>false</project-formatting-style>
-            </formatting>
             <make-dep-projects/>
             <sourceRootList>
                 <sourceRootElem>../framework/usb</sourceRootElem>
